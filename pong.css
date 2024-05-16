@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+#board {
+  margin: 0 auto;
+  border-top: 5px solid aliceblue;
+  border-bottom: 5px solid aliceblue;
+  position: relative;
+  background-color: black;
+}
